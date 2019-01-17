@@ -1,0 +1,3332 @@
+{
+    "Sheet1": [{
+            "Sku": "313000550046",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Pink",
+            "Stock": "2",
+            "RMB": "400"
+        },
+        {
+            "Sku": "330040057714",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Red",
+            "Stock": "5",
+            "RMB": "500"
+        },
+        {
+            "Sku": "330040057732",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "White",
+            "Stock": "17",
+            "RMB": "500"
+        },
+        {
+            "Sku": "330040156832",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "White",
+            "Stock": "4",
+            "RMB": "500"
+        },
+        {
+            "Sku": "330050057713",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "330050156810",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Dark Brown",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "334590057714",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Red",
+            "Stock": "4",
+            "RMB": "200"
+        },
+        {
+            "Sku": "334590057704",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "334590057713",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "331630056913",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "331630056917",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Cobalt",
+            "Stock": "4",
+            "RMB": "400"
+        },
+        {
+            "Sku": "331630056932",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "White",
+            "Stock": "5",
+            "RMB": "400"
+        },
+        {
+            "Sku": "333740056913",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "333740056917",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Cobalt",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "333740056932",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "White",
+            "Stock": "6",
+            "RMB": "300"
+        },
+        {
+            "Sku": "334800056913",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "334800056932",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "White",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "335260003301",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335260003316",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Yellow",
+            "Stock": "1",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335260003307",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Taupe",
+            "Stock": "5",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335260003353",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Cream",
+            "Stock": "5",
+            "RMB": "350"
+        },
+        {
+            "Sku": "317060030917",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Cobalt",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "318450030917",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Cobalt",
+            "Stock": "2",
+            "RMB": "350"
+        },
+        {
+            "Sku": "318460030902",
+            "Brand": "none",
+            "Type": "COSMETIC BAG",
+            "Color": "Fuxia",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "318460030917",
+            "Brand": "none",
+            "Type": "COSMETIC BAG",
+            "Color": "Cobalt",
+            "Stock": "8",
+            "RMB": "50"
+        },
+        {
+            "Sku": "318470030917",
+            "Brand": "none",
+            "Type": "BRACELET",
+            "Color": "Cobalt",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "318470030902",
+            "Brand": "none",
+            "Type": "BRACELET",
+            "Color": "Fuxia",
+            "Stock": "5",
+            "RMB": "50"
+        },
+        {
+            "Sku": "320720090213",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "313730145515",
+            "Brand": "none",
+            "Type": "CARDHOLDER",
+            "Color": "Tan",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "322230145504",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "100"
+        },
+        {
+            "Sku": "322230145515",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Tan",
+            "Stock": "4",
+            "RMB": "100"
+        },
+        {
+            "Sku": "335240085113",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085128",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Light Grey",
+            "Stock": "3",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085132",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "White",
+            "Stock": "3",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085116",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Yellow",
+            "Stock": "6",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085114",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Red",
+            "Stock": "10",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085104",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Navy",
+            "Stock": "23",
+            "RMB": "350"
+        },
+        {
+            "Sku": "335240085117",
+            "Brand": "none",
+            "Type": "BACKPACK",
+            "Color": "Cobalt",
+            "Stock": "44",
+            "RMB": "350"
+        },
+        {
+            "Sku": "307560056711",
+            "Brand": "none",
+            "Type": "COSMETIC BAG",
+            "Color": "Lagoon Blue",
+            "Stock": "5",
+            "RMB": "50"
+        },
+        {
+            "Sku": "307560056737",
+            "Brand": "none",
+            "Type": "COSMETIC BAG",
+            "Color": "Coral",
+            "Stock": "6",
+            "RMB": "50"
+        },
+        {
+            "Sku": "319290056704",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "319290056737",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Coral",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "319290056711",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Lagoon Blue",
+            "Stock": "2",
+            "RMB": "150"
+        },
+        {
+            "Sku": "319370056711",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Lagoon Blue",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "313950002720",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Dark Green ",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313950002714",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Red",
+            "Stock": "19",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313950039904",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Navy",
+            "Stock": "6",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313950039920",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Dark Green",
+            "Stock": "14",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313960002704",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "350"
+        },
+        {
+            "Sku": "313960002713",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Black",
+            "Stock": "4",
+            "RMB": "350"
+        },
+        {
+            "Sku": "313960002714",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Red",
+            "Stock": "9",
+            "RMB": "350"
+        },
+        {
+            "Sku": "313960002720",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Dark Green ",
+            "Stock": "9",
+            "RMB": "350"
+        },
+        {
+            "Sku": "313960039904",
+            "Brand": "none",
+            "Type": "BUCKET BAGS",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "350"
+        },
+        {
+            "Sku": "305290807821",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Purple",
+            "Stock": "2",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290807838",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Camel",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290807857",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Brandy",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290807813",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "21",
+            "RMB": "150"
+        },
+        {
+            "Sku": "333050207838",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Camel",
+            "Stock": "6",
+            "RMB": "100"
+        },
+        {
+            "Sku": "333050207821",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Purple",
+            "Stock": "8",
+            "RMB": "100"
+        },
+        {
+            "Sku": "333050207857",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Brandy",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "333050207813",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "21",
+            "RMB": "100"
+        },
+        {
+            "Sku": "336010107838",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Camel",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010107821",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Purple",
+            "Stock": "39",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010107857",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Brandy",
+            "Stock": "11",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010107813",
+            "Brand": "none",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "48",
+            "RMB": "150"
+        },
+        {
+            "Sku": "324490078853",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Cream",
+            "Stock": "1",
+            "RMB": "250"
+        },
+        {
+            "Sku": "324490078846",
+            "Brand": "none",
+            "Type": "CROSSBODY BAG",
+            "Color": "Pink",
+            "Stock": "2",
+            "RMB": "250"
+        },
+        {
+            "Sku": "317080046313",
+            "Brand": "none",
+            "Type": "TOP HANDLE",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "600"
+        },
+        {
+            "Sku": "317080068913",
+            "Brand": "none",
+            "Type": "TOP HANDLE",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "318620046313",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "600"
+        },
+        {
+            "Sku": "318620046328",
+            "Brand": "none",
+            "Type": "TOTE BAG",
+            "Color": "Light Grey",
+            "Stock": "2",
+            "RMB": "600"
+        },
+        {
+            "Sku": "324960046313",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "324960046328",
+            "Brand": "none",
+            "Type": "SHOULDER BAG",
+            "Color": "Light Grey",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "310340026101",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Mustard ",
+            "Stock": "34",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026106",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Violet",
+            "Stock": "9",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026109",
+            "Brand": "Daisy's",
+            "Type": "HOBO",
+            "Color": "Brown",
+            "Stock": "10",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026105",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Yellow",
+            "Stock": "12",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026108",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Dark Purple",
+            "Stock": "30",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026107",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Dusty Pink",
+            "Stock": "41",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310340026110",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Blue",
+            "Stock": "59",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310350026104",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Ligh. Orange",
+            "Stock": "25",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310350026101",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Mustard",
+            "Stock": "64",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310350026108",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Brown",
+            "Stock": "45",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310350026106",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Green",
+            "Stock": "55",
+            "RMB": "20"
+        },
+        {
+            "Sku": "310350026107",
+            "Brand": "Daisy's",
+            "Type": "COSMETIC BAG",
+            "Color": "Purple",
+            "Stock": "64",
+            "RMB": "20"
+        },
+        {
+            "Sku": "322810014746",
+            "Brand": "Donna's",
+            "Type": "TOTE BAG",
+            "Color": "Pink",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "322810146213",
+            "Brand": "Donna's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "5",
+            "RMB": "300"
+        },
+        {
+            "Sku": "322820146213",
+            "Brand": "Donna's",
+            "Type": "BUCKET BAGS",
+            "Color": "Black",
+            "Stock": "5",
+            "RMB": "250"
+        },
+        {
+            "Sku": "322830146213",
+            "Brand": "Donna's",
+            "Type": "SHOULDER BAG",
+            "Color": "Black ",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "324250014701",
+            "Brand": "Donna's",
+            "Type": "WALLET",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "324250046213",
+            "Brand": "Donna's",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "324260046213",
+            "Brand": "Donna's",
+            "Type": "CARDHOLDER",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "324340018246",
+            "Brand": "Donna's",
+            "Type": "SHOPPING BAG",
+            "Color": "Pink",
+            "Stock": "5",
+            "RMB": "50"
+        },
+        {
+            "Sku": "324340018204",
+            "Brand": "Donna's",
+            "Type": "SHOPPING BAG",
+            "Color": "Navy",
+            "Stock": "13",
+            "RMB": "50"
+        },
+        {
+            "Sku": "298491707309",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Raspberry",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "298491707357",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Brandy",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315340016016",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Yellow",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "315340016021",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Purple",
+            "Stock": "6",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010007357",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Brandy",
+            "Stock": "6",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010007353",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Cream",
+            "Stock": "7",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010007309",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Raspberry",
+            "Stock": "7",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207320",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Dark Green",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207313",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Black",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207314",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Red",
+            "Stock": "7",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207347",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Ink Blue",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207323",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Gold",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322010207356",
+            "Brand": "Ella's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Iridescent",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322700207309",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Raspberry",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322700207357",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Brandy",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322700207353",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Cream",
+            "Stock": "12",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322700207356",
+            "Brand": "Ella's",
+            "Type": "WALLET",
+            "Color": "Iridescent",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "312980167913",
+            "Brand": "Eugenie's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "323930041815",
+            "Brand": "Felicia's",
+            "Type": "WALLET",
+            "Color": "Tan",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "312340288619",
+            "Brand": "Flynn'SMART",
+            "Type": "CARDHOLDER",
+            "Color": "Burgandy",
+            "Stock": "20",
+            "RMB": "50"
+        },
+        {
+            "Sku": "312340288513",
+            "Brand": "Flynn'SMART",
+            "Type": "CARDHOLDER",
+            "Color": "BLACK",
+            "Stock": "92",
+            "RMB": "50"
+        },
+        {
+            "Sku": "312340288810",
+            "Brand": "Flynn'SMART",
+            "Type": "CARDHOLDER",
+            "Color": "Brown",
+            "Stock": "55",
+            "RMB": "50"
+        },
+        {
+            "Sku": "336010272113",
+            "Brand": "Genova",
+            "Type": "CARDHOLDER",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "339010072113",
+            "Brand": "Genova",
+            "Type": "CARDHOLDER",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "332090058814",
+            "Brand": "Ghita",
+            "Type": "CHAIN WALLET",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "332620058813",
+            "Brand": "Ghita",
+            "Type": "BRACELET",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "332620058804",
+            "Brand": "Ghita",
+            "Type": "BRACELET",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "332620058814",
+            "Brand": "Ghita",
+            "Type": "BRACELET",
+            "Color": "Red",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "333770058804",
+            "Brand": "Ghita",
+            "Type": "CROSSBODY BAG",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "333770158814",
+            "Brand": "Ghita",
+            "Type": "CROSSBODY BAG",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "334840058814",
+            "Brand": "Ghita",
+            "Type": "BELT",
+            "Color": "Red",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "331610096419",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Burgundy",
+            "Stock": "1",
+            "RMB": "550"
+        },
+        {
+            "Sku": "331610096410",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Dark Brown",
+            "Stock": "3",
+            "RMB": "550"
+        },
+        {
+            "Sku": "331610096404",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "550"
+        },
+        {
+            "Sku": "334890096410",
+            "Brand": "Giana",
+            "Type": "WALLET",
+            "Color": "Dark Brown",
+            "Stock": "9",
+            "RMB": "200"
+        },
+        {
+            "Sku": "334890096404",
+            "Brand": "Giana",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "11",
+            "RMB": "200"
+        },
+        {
+            "Sku": "334890096413",
+            "Brand": "Giana",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "9",
+            "RMB": "200"
+        },
+        {
+            "Sku": "335480096419",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Burgundy",
+            "Stock": "3",
+            "RMB": "500"
+        },
+        {
+            "Sku": "335480096404",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "500"
+        },
+        {
+            "Sku": "337640096404",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "337640096410",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Dark Brown",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "337640096413",
+            "Brand": "Giana",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "600"
+        },
+        {
+            "Sku": "297270366003",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Tile",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "297270366007",
+            "Brand": "Hannah's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Taupe",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "297270366011",
+            "Brand": "Hannah's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Lagoon Blue",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "301930166001",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166003",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Tile",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166006",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Aqua",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166007",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Taupe",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166009",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Raspberry",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166010",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Brown",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166012",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Pale Blue",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290166011",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Lagoon Blue",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "308420166001",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Orange",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166003",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Tile",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166008",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Beige",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166004",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Navy",
+            "Stock": "3",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166011",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Lagoon Blue",
+            "Stock": "4",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166007",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Taupe",
+            "Stock": "4",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166010",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Brown",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420166012",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Pale Blue",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420153147",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Ink Blue",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308420153113",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308430166001",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166005",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Mint",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166002",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Fuxia",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166003",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Tile",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166006",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Aqua",
+            "Stock": "2",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166008",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Beige",
+            "Stock": "2",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166004",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166007",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Taupe",
+            "Stock": "5",
+            "RMB": "400"
+        },
+        {
+            "Sku": "308430166010",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Brown",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "312520066002",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Fuxia",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312520066004",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312520066008",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Beige",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312520066005",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Mint",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312520066006",
+            "Brand": "Hannah's",
+            "Type": "SHOULDER BAG",
+            "Color": "Aqua",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312520066012",
+            "Brand": "Hannah's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Pale Blue",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312530066001",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "312530066007",
+            "Brand": "Hannah's",
+            "Type": "WALLET",
+            "Color": "Taupe",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "319330053107",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Taupe",
+            "Stock": "1",
+            "RMB": "300"
+        },
+        {
+            "Sku": "319330053113",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "319330053147",
+            "Brand": "Hannah's",
+            "Type": "TOTE BAG",
+            "Color": "Ink Blue",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "299510226101",
+            "Brand": "Hollie's",
+            "Type": "SHOPPING BAG",
+            "Color": "Dark Purple",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "299520125905",
+            "Brand": "Hollie's",
+            "Type": "SHOULDER BAG",
+            "Color": "Dark Blue",
+            "Stock": "8",
+            "RMB": "400"
+        },
+        {
+            "Sku": "329240074721",
+            "Brand": "Jemma's",
+            "Type": "CLUTCH",
+            "Color": "Purple",
+            "Stock": "1",
+            "RMB": "1000"
+        },
+        {
+            "Sku": "329240074714",
+            "Brand": "Jemma's",
+            "Type": "CLUTCH",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "1000"
+        },
+        {
+            "Sku": "323680029720",
+            "Brand": "Jina's",
+            "Type": "TOTE BAG",
+            "Color": "Dark Green",
+            "Stock": "1",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323680029721",
+            "Brand": "Jina's",
+            "Type": "TOTE BAG",
+            "Color": "Purple",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323690029720",
+            "Brand": "Jina's",
+            "Type": "TOTE BAG",
+            "Color": "Dark Green",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322040014901",
+            "Brand": "Kandise's",
+            "Type": "BACKPACK",
+            "Color": "Orange",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322050014901",
+            "Brand": "Kandise's",
+            "Type": "COSMETIC BAG",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "323490014901",
+            "Brand": "Kandise's",
+            "Type": "BACKPACK",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "250"
+        },
+        {
+            "Sku": "319340094904",
+            "Brand": "Kate's",
+            "Type": "BACKPACK",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "319340094914",
+            "Brand": "Kate's",
+            "Type": "BACKPACK",
+            "Color": "Red",
+            "Stock": "7",
+            "RMB": "300"
+        },
+        {
+            "Sku": "305290707704",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290707717",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Cobalt",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290707713",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290707715",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Tan",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322230307710",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Dark Brown",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "322230307704",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "3",
+            "RMB": "100"
+        },
+        {
+            "Sku": "322230307715",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Tan",
+            "Stock": "4",
+            "RMB": "100"
+        },
+        {
+            "Sku": "322230307713",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "6",
+            "RMB": "100"
+        },
+        {
+            "Sku": "322230307717",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Cobalt",
+            "Stock": "6",
+            "RMB": "100"
+        },
+        {
+            "Sku": "336010007704",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010007710",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Dark Brown",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010007715",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Tan",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010007713",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "6",
+            "RMB": "150"
+        },
+        {
+            "Sku": "336010007717",
+            "Brand": "Kobe",
+            "Type": "WALLET",
+            "Color": "Cobalt",
+            "Stock": "7",
+            "RMB": "150"
+        },
+        {
+            "Sku": "297830313402",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Fuscia",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "297830313404",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "297830313458",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Khaki",
+            "Stock": "3",
+            "RMB": "500"
+        },
+        {
+            "Sku": "297830356506",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Aqua",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "297830491604",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "297830491646",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Pink",
+            "Stock": "6",
+            "RMB": "500"
+        },
+        {
+            "Sku": "332800056514",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "450"
+        },
+        {
+            "Sku": "332800056513",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "450"
+        },
+        {
+            "Sku": "332800056506",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Aqua",
+            "Stock": "4",
+            "RMB": "450"
+        },
+        {
+            "Sku": "332800156535",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Magenta",
+            "Stock": "5",
+            "RMB": "450"
+        },
+        {
+            "Sku": "332800156553",
+            "Brand": "Laura's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Cream",
+            "Stock": "14",
+            "RMB": "450"
+        },
+        {
+            "Sku": "332950056513",
+            "Brand": "Laura's",
+            "Type": "TOP HANDLE",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "346950030633",
+            "Brand": "Lilli",
+            "Type": "CHARM",
+            "Color": "Dusty Pink",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "346950030616",
+            "Brand": "Lilli",
+            "Type": "CHARM",
+            "Color": "Yellow",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "346950030662",
+            "Brand": "Lilli",
+            "Type": "CHARM",
+            "Color": "Teal",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "346950030604",
+            "Brand": "Lilli",
+            "Type": "CHARM",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "333840056215",
+            "Brand": "Lucy",
+            "Type": "TOP HANDLE",
+            "Color": "Tan",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "333840056207",
+            "Brand": "Lucy",
+            "Type": "TOP HANDLE",
+            "Color": "Taupe",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "333840056219",
+            "Brand": "Lucy",
+            "Type": "TOP HANDLE",
+            "Color": "Burgundy",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "333840056228",
+            "Brand": "Lucy",
+            "Type": "TOP HANDLE",
+            "Color": "Light Grey",
+            "Stock": "9",
+            "RMB": "200"
+        },
+        {
+            "Sku": "315770642214",
+            "Brand": "Luna",
+            "Type": "WALLET",
+            "Color": "Red",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "315770691530",
+            "Brand": "Luna",
+            "Type": "WALLET",
+            "Color": "Sand",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "324360042214",
+            "Brand": "Luna",
+            "Type": "TOP HANDLE",
+            "Color": "Red",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "324360091513",
+            "Brand": "Luna",
+            "Type": "TOP HANDLE",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "325760091530",
+            "Brand": "Luna",
+            "Type": "CARDHOLDER",
+            "Color": "Sand",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "325760092637",
+            "Brand": "Luna",
+            "Type": "CARDHOLDER",
+            "Color": "Coral",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "301930281004",
+            "Brand": "Maisy's",
+            "Type": "WALLET",
+            "Color": "Blue",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "312360181006",
+            "Brand": "Maisy's",
+            "Type": "WALLET",
+            "Color": "Yellow",
+            "Stock": "4",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312360132113",
+            "Brand": "Maisy's",
+            "Type": "CHAIN WALLET",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "314070045460",
+            "Brand": "Maisy's",
+            "Type": "WALLET",
+            "Color": "Light Pink",
+            "Stock": "2",
+            "RMB": "80"
+        },
+        {
+            "Sku": "314070015904",
+            "Brand": "Maisy's",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "80"
+        },
+        {
+            "Sku": "314070015933",
+            "Brand": "Maisy's",
+            "Type": "WALLET",
+            "Color": "Dusty Pink",
+            "Stock": "4",
+            "RMB": "80"
+        },
+        {
+            "Sku": "316470032119",
+            "Brand": "Maisy's",
+            "Type": "CLUTCH",
+            "Color": "Burgundy",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316470045404",
+            "Brand": "Maisy's",
+            "Type": "CLUTCH",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316470045460",
+            "Brand": "Maisy's",
+            "Type": "CLUTCH",
+            "Color": "Light Pink",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "317020032113",
+            "Brand": "Maisy's",
+            "Type": "BOWLING BAG",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "400"
+        },
+        {
+            "Sku": "316860030604",
+            "Brand": "Matilda's",
+            "Type": "ACCESSORIES",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "312360200916",
+            "Brand": "Mavis's",
+            "Type": "CHAIN WALLET",
+            "Color": "Yellow",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "312360200919",
+            "Brand": "Mavis's",
+            "Type": "CHAIN WALLET",
+            "Color": "Burgandy",
+            "Stock": "1",
+            "RMB": "600"
+        },
+        {
+            "Sku": "312360264137",
+            "Brand": "Mavis's",
+            "Type": "CHAIN WALLET",
+            "Color": "Coral",
+            "Stock": "2",
+            "RMB": "600"
+        },
+        {
+            "Sku": "317970092333",
+            "Brand": "Mavis's",
+            "Type": "BRACELET",
+            "Color": "Dusty Pink",
+            "Stock": "2",
+            "RMB": "80"
+        },
+        {
+            "Sku": "340970039713",
+            "Brand": "Melody",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "340970039726",
+            "Brand": "Melody",
+            "Type": "TOTE BAG",
+            "Color": "Pale Blue",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "340970039732",
+            "Brand": "Melody",
+            "Type": "TOTE BAG",
+            "Color": "White",
+            "Stock": "4",
+            "RMB": "400"
+        },
+        {
+            "Sku": "322730015514",
+            "Brand": "Mia's",
+            "Type": "WALLET",
+            "Color": "Red",
+            "Stock": "8",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322740015520",
+            "Brand": "Mia's",
+            "Type": "WALLET",
+            "Color": "Dark Green",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322740015514",
+            "Brand": "Mia's",
+            "Type": "WALLET",
+            "Color": "Red",
+            "Stock": "9",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322770015520",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Dark Green",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322770015514",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Red",
+            "Stock": "6",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322770015553",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Cream",
+            "Stock": "10",
+            "RMB": "200"
+        },
+        {
+            "Sku": "322780015520",
+            "Brand": "Mia's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Dark Green",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322780015514",
+            "Brand": "Mia's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Red",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "322780015553",
+            "Brand": "Mia's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Cream",
+            "Stock": "7",
+            "RMB": "150"
+        },
+        {
+            "Sku": "323560015520",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Dark Green",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "323560015514",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Red",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "323560015553",
+            "Brand": "Mia's",
+            "Type": "TOTE BAG",
+            "Color": "Cream",
+            "Stock": "9",
+            "RMB": "200"
+        },
+        {
+            "Sku": "257921858503",
+            "Brand": "MiaTan's",
+            "Type": "WALLET",
+            "Color": "Tan/Tile",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "278900458604",
+            "Brand": "MiaTan's",
+            "Type": "WALLET",
+            "Color": "Tan/ Red ",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "278900458602",
+            "Brand": "MiaTan's",
+            "Type": "WALLET",
+            "Color": "Tan/ Brown",
+            "Stock": "3",
+            "RMB": "50"
+        },
+        {
+            "Sku": "278900458603",
+            "Brand": "MiaTan's",
+            "Type": "WALLET",
+            "Color": "Tan/ Tile ",
+            "Stock": "4",
+            "RMB": "50"
+        },
+        {
+            "Sku": "304110458501",
+            "Brand": "MiaTan's",
+            "Type": "WALLET",
+            "Color": "Tan/ Navy ",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "308000058504",
+            "Brand": "MiaTan's",
+            "Type": "TOTE BAG",
+            "Color": "Tan/ Red ",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "312630058502",
+            "Brand": "MiaTan's",
+            "Type": "CHARM",
+            "Color": "Tan/ Brown",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "320680094810",
+            "Brand": "Mimosa's",
+            "Type": "SHOULDER BAG",
+            "Color": "Dark Brown",
+            "Stock": "1",
+            "RMB": "300"
+        },
+        {
+            "Sku": "320680094802",
+            "Brand": "Mimosa's",
+            "Type": "SHOULDER BAG",
+            "Color": "Fuxia",
+            "Stock": "11",
+            "RMB": "300"
+        },
+        {
+            "Sku": "320690094801",
+            "Brand": "Mimosa's",
+            "Type": "COSMETIC BAG",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "320840094802",
+            "Brand": "Mimosa's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Fuxia",
+            "Stock": "4",
+            "RMB": "250"
+        },
+        {
+            "Sku": "301930181803",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Cloud ",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "301930181802",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Grey",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290181801",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Fuxia",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290181802",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Grey",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290181803",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Cloud",
+            "Stock": "1",
+            "RMB": "150"
+        },
+        {
+            "Sku": "308420181801",
+            "Brand": "Niamh's",
+            "Type": "SHOULDER BAG",
+            "Color": "Fuxia ",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "312340181801",
+            "Brand": "Niamh's",
+            "Type": "WALLET",
+            "Color": "Fuxia ",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "312980067902",
+            "Brand": "Olivia's",
+            "Type": "TOTE BAG",
+            "Color": "L. Grey ",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "307530123313",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307530123319",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Burgandy",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307530123321",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Purple",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307530123325",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Blush",
+            "Stock": "5",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307530123304",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Navy",
+            "Stock": "8",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307530123327",
+            "Brand": "Patty's",
+            "Type": "SHOULDER BAG",
+            "Color": "Grey",
+            "Stock": "8",
+            "RMB": "200"
+        },
+        {
+            "Sku": "307540123304",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "3",
+            "RMB": "250"
+        },
+        {
+            "Sku": "307540123313",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "250"
+        },
+        {
+            "Sku": "307540123321",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Purple",
+            "Stock": "4",
+            "RMB": "250"
+        },
+        {
+            "Sku": "307540123327",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Grey",
+            "Stock": "4",
+            "RMB": "250"
+        },
+        {
+            "Sku": "307540123319",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Burgandy",
+            "Stock": "5",
+            "RMB": "250"
+        },
+        {
+            "Sku": "315260023327",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Grey",
+            "Stock": "3",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315260023313",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Black",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315260023321",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Purple",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315260023325",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Blush",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315260023304",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Navy",
+            "Stock": "10",
+            "RMB": "150"
+        },
+        {
+            "Sku": "315260023319",
+            "Brand": "Patty's",
+            "Type": "CLUTCH",
+            "Color": "Burgandy",
+            "Stock": "10",
+            "RMB": "150"
+        },
+        {
+            "Sku": "317070023304",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "317070023313",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "317070023319",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Burgandy",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "317070023321",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Purple",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "317070023327",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Grey",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "317070023325",
+            "Brand": "Patty's",
+            "Type": "TOTE BAG",
+            "Color": "Blush",
+            "Stock": "4",
+            "RMB": "200"
+        },
+        {
+            "Sku": "318590032214",
+            "Brand": "Peony's",
+            "Type": "SHOULDER BAG",
+            "Color": "Red",
+            "Stock": "4",
+            "RMB": "200"
+        },
+        {
+            "Sku": "305290676330",
+            "Brand": "Perlita's",
+            "Type": "WALLET",
+            "Color": "Sand",
+            "Stock": "5",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290676337",
+            "Brand": "Perlita's",
+            "Type": "WALLET",
+            "Color": "Coral",
+            "Stock": "6",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290676313",
+            "Brand": "Perlita's",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "10",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290280902",
+            "Brand": "Popp's",
+            "Type": "WALLET",
+            "Color": "Taupe/ Yellow",
+            "Stock": "7",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290280901",
+            "Brand": "Popp's",
+            "Type": "WALLET",
+            "Color": "Taupe/ Pink",
+            "Stock": "11",
+            "RMB": "150"
+        },
+        {
+            "Sku": "305290280903",
+            "Brand": "Popp's",
+            "Type": "WALLET",
+            "Color": "Taupe/ Orange ",
+            "Stock": "4",
+            "RMB": "150"
+        },
+        {
+            "Sku": "313600080901",
+            "Brand": "Popp's",
+            "Type": "SHOPPING BAG",
+            "Color": "Taupe/ Pink edge ",
+            "Stock": "5",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313600080902",
+            "Brand": "Popp's",
+            "Type": "SHOPPING BAG",
+            "Color": "Taupe/ Yellow ",
+            "Stock": "7",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313610080902",
+            "Brand": "Popp's",
+            "Type": "SHOPPING BAG",
+            "Color": "Taupe/ Yellow",
+            "Stock": "3",
+            "RMB": "400"
+        },
+        {
+            "Sku": "313720080902",
+            "Brand": "Popp's",
+            "Type": "WALLET",
+            "Color": "Taupe/ Yellow",
+            "Stock": "2",
+            "RMB": "150"
+        },
+        {
+            "Sku": "257921968703",
+            "Brand": "Pricilla's",
+            "Type": "WALLET",
+            "Color": "Fuxia ",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "307590268704",
+            "Brand": "Pricilla's",
+            "Type": "TOTE BAG",
+            "Color": "China ",
+            "Stock": "2",
+            "RMB": "350"
+        },
+        {
+            "Sku": "323570042458",
+            "Brand": "Renia",
+            "Type": "TOP HANDLE",
+            "Color": "Khaki",
+            "Stock": "5",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323570042404",
+            "Brand": "Renia",
+            "Type": "TOP HANDLE",
+            "Color": "Navy",
+            "Stock": "6",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323570042407",
+            "Brand": "Renia",
+            "Type": "SHOULDER BAG",
+            "Color": "Taupe",
+            "Stock": "16",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323590042407",
+            "Brand": "Renia",
+            "Type": "BRACELET",
+            "Color": "Taupe",
+            "Stock": "4",
+            "RMB": "50"
+        },
+        {
+            "Sku": "323590042404",
+            "Brand": "Renia",
+            "Type": "BRACELET",
+            "Color": "Navy",
+            "Stock": "6",
+            "RMB": "50"
+        },
+        {
+            "Sku": "323590042458",
+            "Brand": "Renia",
+            "Type": "BRACELET",
+            "Color": "Khaki",
+            "Stock": "6",
+            "RMB": "50"
+        },
+        {
+            "Sku": "324800042404",
+            "Brand": "Renia",
+            "Type": "BUCKET BAGS",
+            "Color": "Navy",
+            "Stock": "9",
+            "RMB": "400"
+        },
+        {
+            "Sku": "324800042407",
+            "Brand": "Renia",
+            "Type": "BUCKET BAGS",
+            "Color": "Taupe",
+            "Stock": "10",
+            "RMB": "400"
+        },
+        {
+            "Sku": "324800042458",
+            "Brand": "Renia",
+            "Type": "BUCKET BAGS",
+            "Color": "Khaki",
+            "Stock": "10",
+            "RMB": "400"
+        },
+        {
+            "Sku": "324890068114",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "324890068158",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Khaki",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "324890068104",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "50"
+        },
+        {
+            "Sku": "333780068104",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "333780068158",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Khaki",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "333780068114",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Red",
+            "Stock": "5",
+            "RMB": "50"
+        },
+        {
+            "Sku": "335160068104",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Navy",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "335160068114",
+            "Brand": "Renia",
+            "Type": "BELT",
+            "Color": "Red",
+            "Stock": "2",
+            "RMB": "50"
+        },
+        {
+            "Sku": "336660085333",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Dusty Pink",
+            "Stock": "1",
+            "RMB": "300"
+        },
+        {
+            "Sku": "336660085304",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "336660085311",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Lagoon Blue",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "336660085318",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Tomato",
+            "Stock": "5",
+            "RMB": "300"
+        },
+        {
+            "Sku": "337770085333",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Dusty Pink",
+            "Stock": "1",
+            "RMB": "350"
+        },
+        {
+            "Sku": "337770085304",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "350"
+        },
+        {
+            "Sku": "337770085311",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Lagoon Blue",
+            "Stock": "19",
+            "RMB": "350"
+        },
+        {
+            "Sku": "337770085318",
+            "Brand": "Rosie",
+            "Type": "BACKPACK",
+            "Color": "Tomato",
+            "Stock": "21",
+            "RMB": "350"
+        },
+        {
+            "Sku": "318750058137",
+            "Brand": "Sandra's",
+            "Type": "CLUTCH",
+            "Color": "Coral",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "257922234002",
+            "Brand": "Scarlett's",
+            "Type": "WALLET",
+            "Color": "Orange",
+            "Stock": "1",
+            "RMB": "100"
+        },
+        {
+            "Sku": "311110034002",
+            "Brand": "Scarlett's",
+            "Type": "TOTE BAG",
+            "Color": "Orange ",
+            "Stock": "2",
+            "RMB": "450"
+        },
+        {
+            "Sku": "311110034001",
+            "Brand": "Scarlett's",
+            "Type": "TOTE BAG",
+            "Color": "Cacao",
+            "Stock": "3",
+            "RMB": "450"
+        },
+        {
+            "Sku": "311120034004",
+            "Brand": "Scarlett's",
+            "Type": "TOTE BAG",
+            "Color": "Poppy",
+            "Stock": "5",
+            "RMB": "400"
+        },
+        {
+            "Sku": "312360034004",
+            "Brand": "Scarlett's",
+            "Type": "WALLET",
+            "Color": "Poppy",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "308450173304",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Navy",
+            "Stock": "2",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308460063603",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Turquoise ",
+            "Stock": "4",
+            "RMB": "450"
+        },
+        {
+            "Sku": "308460107213",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Black",
+            "Stock": "4",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308460107204",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Navy",
+            "Stock": "10",
+            "RMB": "500"
+        },
+        {
+            "Sku": "308460107227",
+            "Brand": "Shanner's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Grey",
+            "Stock": "12",
+            "RMB": "500"
+        },
+        {
+            "Sku": "312920063601",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Pink ",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "312920063603",
+            "Brand": "Shanner's",
+            "Type": "SHOULDER BAG",
+            "Color": "Turquoise ",
+            "Stock": "2",
+            "RMB": "400"
+        },
+        {
+            "Sku": "312340503611",
+            "Brand": "Smart Core",
+            "Type": "CARDHOLDER",
+            "Color": "Lagoon Blue",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "312340597106",
+            "Brand": "Smart Core",
+            "Type": "CARDHOLDER",
+            "Color": "Aqua",
+            "Stock": "5",
+            "RMB": "50"
+        },
+        {
+            "Sku": "320650029513",
+            "Brand": "Sophie's",
+            "Type": "BRACELET",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "50"
+        },
+        {
+            "Sku": "320650029504",
+            "Brand": "Sophie's",
+            "Type": "BRACELET",
+            "Color": "Navy",
+            "Stock": "7",
+            "RMB": "50"
+        },
+        {
+            "Sku": "320650029558",
+            "Brand": "Sophie's",
+            "Type": "BRACELET",
+            "Color": "Khaki",
+            "Stock": "7",
+            "RMB": "50"
+        },
+        {
+            "Sku": "323510029504",
+            "Brand": "Sophie's",
+            "Type": "TOTE BAG",
+            "Color": "Navy",
+            "Stock": "7",
+            "RMB": "400"
+        },
+        {
+            "Sku": "323510029513",
+            "Brand": "Sophie's",
+            "Type": "TOTE BAG",
+            "Color": "Black ",
+            "Stock": "7",
+            "RMB": "400"
+        },
+        {
+            "Sku": "323510029558",
+            "Brand": "Sophie's",
+            "Type": "TOTE BAG",
+            "Color": "Khaki",
+            "Stock": "7",
+            "RMB": "400"
+        },
+        {
+            "Sku": "323520029558",
+            "Brand": "Sophie's",
+            "Type": "BUCKET BAGS",
+            "Color": "Khaki",
+            "Stock": "1",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323520029513",
+            "Brand": "Sophie's",
+            "Type": "BUCKET BAGS",
+            "Color": "Black",
+            "Stock": "2",
+            "RMB": "300"
+        },
+        {
+            "Sku": "323520029504",
+            "Brand": "Sophie's",
+            "Type": "BUCKET BAGS",
+            "Color": "Navy",
+            "Stock": "3",
+            "RMB": "300"
+        },
+        {
+            "Sku": "324400027321",
+            "Brand": "TALA Special ",
+            "Type": "COSMETIC BAG",
+            "Color": "Purple",
+            "Stock": "3",
+            "RMB": "100"
+        },
+        {
+            "Sku": "324400027309",
+            "Brand": "TALA Special ",
+            "Type": "COSMETIC BAG",
+            "Color": "Raspberry",
+            "Stock": "4",
+            "RMB": "100"
+        },
+        {
+            "Sku": "324400046514",
+            "Brand": "TALA Special ",
+            "Type": "COSMETIC BAG",
+            "Color": "Red",
+            "Stock": "7",
+            "RMB": "100"
+        },
+        {
+            "Sku": "323660042807",
+            "Brand": "Velia",
+            "Type": "SHOULDER BAG",
+            "Color": "Taupe",
+            "Stock": "2",
+            "RMB": "350"
+        },
+        {
+            "Sku": "323670042807",
+            "Brand": "Velia",
+            "Type": "CROSSBODY BAG",
+            "Color": "Taupe",
+            "Stock": "10",
+            "RMB": "300"
+        },
+        {
+            "Sku": "324950042803",
+            "Brand": "Velia",
+            "Type": "TOTE BAG",
+            "Color": "Tile",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "324950142807",
+            "Brand": "Velia",
+            "Type": "TOTE BAG",
+            "Color": "Taupe",
+            "Stock": "7",
+            "RMB": "400"
+        },
+        {
+            "Sku": "323670142712",
+            "Brand": "Velia Special",
+            "Type": "CROSSBODY BAG",
+            "Color": "Greylish Blue",
+            "Stock": "7",
+            "RMB": "350"
+        },
+        {
+            "Sku": "323670142702",
+            "Brand": "Velia Special",
+            "Type": "CROSSBODY BAG",
+            "Color": "Fuxia",
+            "Stock": "9",
+            "RMB": "350"
+        },
+        {
+            "Sku": "323670142716",
+            "Brand": "Velia Special",
+            "Type": "CROSSBODY BAG",
+            "Color": "Yellow",
+            "Stock": "9",
+            "RMB": "350"
+        },
+        {
+            "Sku": "331090068213",
+            "Brand": "Viola",
+            "Type": "BUCKET BAGS",
+            "Color": "Black",
+            "Stock": "1",
+            "RMB": "400"
+        },
+        {
+            "Sku": "312360315732",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Cream",
+            "Stock": "1",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312360315719",
+            "Brand": "Yannes's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Burgandy",
+            "Stock": "2",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312360315725",
+            "Brand": "Yannes's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Blush",
+            "Stock": "3",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312360315704",
+            "Brand": "Yannes's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Navy",
+            "Stock": "4",
+            "RMB": "200"
+        },
+        {
+            "Sku": "312360315713",
+            "Brand": "Yannes's",
+            "Type": "CROSSBODY BAG",
+            "Color": "Black",
+            "Stock": "10",
+            "RMB": "200"
+        },
+        {
+            "Sku": "313720215725",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Blush",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "313720215732",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Cream",
+            "Stock": "2",
+            "RMB": "100"
+        },
+        {
+            "Sku": "313720215713",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "3",
+            "RMB": "100"
+        },
+        {
+            "Sku": "313720215704",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "5",
+            "RMB": "100"
+        },
+        {
+            "Sku": "316570015719",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Burgandy",
+            "Stock": "7",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316570015725",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Blush",
+            "Stock": "9",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316570015732",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Cream",
+            "Stock": "9",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316570015704",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Navy",
+            "Stock": "10",
+            "RMB": "150"
+        },
+        {
+            "Sku": "316570015713",
+            "Brand": "Yannes's",
+            "Type": "WALLET",
+            "Color": "Black",
+            "Stock": "16",
+            "RMB": "150"
+        },
+        {
+            "Sku": "310370026101",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Yellow",
+            "Stock": "4",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026102",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Light Orange",
+            "Stock": "10",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026103",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "White",
+            "Stock": "11",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026104",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Beige",
+            "Stock": "28",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026106",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Dark Green",
+            "Stock": "7",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026112",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Cherry Red",
+            "Stock": "1",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026108",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Royal Blue",
+            "Stock": "15",
+            "RMB": "50"
+        },
+        {
+            "Sku": "310370026110",
+            "Brand": "Zoe's",
+            "Type": "CLUTCH",
+            "Color": "Blue",
+            "Stock": "25",
+            "RMB": "50"
+        },
+        {
+            "Sku": "308460054327",
+            "Type": "CLUTCH",
+            "Color": "Grey",
+            "Stock": "1",
+            "RMB": "500"
+        },
+        {
+            "Sku": "00000010",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "10"
+        },
+        {
+            "Sku": "00000020",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "20"
+        },
+        {
+            "Sku": "00000030",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "30"
+        },
+        {
+            "Sku": "00000050",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "50"
+        },
+        {
+            "Sku": "00000080",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "80"
+        },
+        {
+            "Sku": "00000100",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "100"
+        },
+        {
+            "Sku": "00000150",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "150"
+        },
+        {
+            "Sku": "00000200",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "200"
+        },
+        {
+            "Sku": "00000250",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "250"
+        },
+        {
+            "Sku": "00000300",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "300"
+        },
+        {
+            "Sku": "00000350",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "350"
+        },
+        {
+            "Sku": "00000400",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "400"
+        },
+        {
+            "Sku": "00000450",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "450"
+        },
+        {
+            "Sku": "00000500",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "500"
+        },
+        {
+            "Sku": "00000550",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "550"
+        },
+        {
+            "Sku": "00000600",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "600"
+        },
+        {
+            "Sku": "00000650",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "650"
+        },
+        {
+            "Sku": "00000700",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "700"
+        },
+        {
+            "Sku": "00000750",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "750"
+        },
+        {
+            "Sku": "00000800",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "800"
+        },
+        {
+            "Sku": "00001000",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "1000"
+        },
+        {
+            "Sku": "00000000",
+            "Brand": "其他",
+            "Color": "",
+            "Stock": "",
+            "RMB": "00"
+        }
+    ]
+}
