@@ -7,160 +7,179 @@
     <meta name="keywords" content="" />
     <meta name="description" content="Enjoy Handbag Clearance." />
     <title>Enjoybag 开仓</title>
-    <link rel="icon" href="../assets/img/icon.png" />
+    <link rel="icon" href="icon.png" />
     <link rel="stylesheet" href="css/normalize.css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
-    <link rel="stylesheet" href="css/clearance.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous" />
+    <link rel="stylesheet" href="css/clearance.css?v=2019">
 </head>
 
 <body ng-app="myShoppingList">
     <div class="content-all" ng-controller="myCtrl">
         <div class="main-body">
+            <div class="container" ng-if="products.length===0">
+                <div class="file-upload">
+                    <h1>上传开仓列表</h1>
+                    <div class="file-select">
+                        <input type="file" id="file" name="file" accept=".xls,.xlsx" />
+                    </div>
+                    <input type="button" class="order-btn" ng-click="uploadExcel()" value="上传" />
+                </div>
+            </div>
             <div class="container">
-                <h1> <span>清仓订单列表</span> </h1>
-                <section>
-                    <div class="input-box">
-                        <input placeholder="sku" ng-model="addMe" focus-me ng-enter="addSku()" id="inputSku">
-                        <button ng-click="addSku()">添加</button>
-                        <span ng-show="none" class="info-none">该产品不存在</span>
-                    </div>
-                    <div class="tbl-header">
-                        <table class="header">
+                <div>
+                    <h1>清仓订单列表 </h1>
+                    <h4 ng-if="products.length>0">已经上传了清仓列表, {{products.length}}个数据</h4>
+                </div>
+                <div class="input-box">
+                    <input placeholder="sku" ng-model="addMe" focus-me ng-enter="addSku()" id="inputSku">
+                    <button ng-click="addSku()">添加</button>
+                    <span ng-if='checkNone.length===0' class="info-none">该产品不存在</span>
+                </div>
+                <div class="tbl-header">
+                    <table class="header">
+                        <tr>
+                            <th>订单号: <span> {{currentID}}</span></th>
+                        </tr>
+                    </table>
+                    <table>
+                        <thead class="header-tb">
                             <tr>
-                                <th>订单号: <span> {{currentID}}</span></th>
+                                <th>品牌</th>
+                                <th>SKU</th>
+                                <th>单价</th>
+                                <th>数量</th>
+                                <th>删除</th>
                             </tr>
-                        </table>
-                        <table>
-                            <thead class="header-tb">
-                                <tr>
-                                    <th>品牌</th>
-                                    <th>SKU</th>
-                                    <th>单价</th>
-                                    <th>数量</th>
-                                    <th>删除</th>
-                                </tr>
-                            </thead>
-                        </table>
-                    </div>
-                    <div class="tbl-content">
-                        <table>
-                            <tbody>
-                                <tr ng-hide="hasItem">
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr ng-repeat="item in itemList ">
-                                    <td>{{item.brand}}</td>
-                                    <td>{{item.sku}}</td>
-                                    <td><input type="text" ng-model="item.price"></td>
-                                    <td><input type="text" ng-model="item.num"></td>
-                                    <td> <button ng-click="removeItem($index)">删除</button> </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <table class="checkout">
-                            <tbody>
-                                <tr>
-                                    <th class="right-top">
-                                        <input type="radio" id="inlineRadio1" name="star1" ng-model="paymethod" value="微信">
-                                        <label for="inlineRadio1"><span></span>微信</label> &nbsp;/&nbsp;
-                                        <input type="radio" id="inlineRadio2" name="star1" ng-model="paymethod" value="现金">
-                                        <label for="inlineRadio2"><span></span>现金</label>
-                                        <span>总价: {{subTotal()}} 元</span>
-                                    </th>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                    <button ng-click="saveOrder(paymethod)" class="order-btn" ng-show="hasOrder">保存订单</button>
-                    <span ng-show="noPayment" class="payInfo">请选择支付方式</span>
-                </section>
-                <div class="container-list">
-                    <h1>订单历史记录</h1>
-                    <table id="tableList">
-                        <thead>
-                            <th></th>
-                            <th>
-                                订单时间
-                            </th>
-                            <th>
-                                订单号
-                            </th>
-                            <th>
-                                订单总价
-                            </th>
-                            <th>
-                                支付方式
-                            </th>
-                            <th class="detailtop">详细信息</th>
                         </thead>
-                        <tbody class="order-table">
-                            <tr ng-repeat="order in orderList | orderBy:'-created_at' ">
-                                <th><button ng-click="removeOrder(order)" class="delete">删除</button> <button ng-click="editOrder(order)" class="delete">修改</button></th>
-                                <th>{{order.created_at}}</th>
-                                <td>{{order.orderId | uppercase}}</td>
-                                <td>{{order.cost}} 元</td>
-                                <td>{{order.pay}}</td>
-                                <td class="detail">
-                                    <div ng-repeat="item in order.skulist">
-                                        <span> 品牌: {{item.brand}}</span>
-                                        <span class="maxWidth"> Sku: {{item.sku}}</span>
-                                        <span> 数量: {{item.num}}</span>
-                                        <span>单价: {{item.price}}</span>
-                                    </div>
-                                </td>
+                    </table>
+                </div>
+                <div class="tbl-content">
+                    <table>
+                        <tbody>
+                            <tr ng-if="itemList.length===0">
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr ng-repeat="item in itemList ">
+                                <td>{{item.brand}}</td>
+                                <td>{{item.sku}}</td>
+                                <td><input type="text" ng-model="item.price"></td>
+                                <td><input type="text" ng-model="item.num"></td>
+                                <td><button ng-click="removeItem($index)">删除</button> </td>
                             </tr>
                         </tbody>
                     </table>
-                    <button ng-click="exportData()" class="btn-list" ng-show="orderList.length">下载Excel列表</button>
-                    <button ng-click="click()" class="clear-list" ng-show="orderList.length">清除记录</button>
-                    <modal ng-show="modalEditor" message="'修改订单'" show="modalEditor">
-                        <form>
-                            <div class="flex-box-50">
-                                <span>订单时间: </span><span>{{newOrder.created_at}}</span>
-                            </div>
-                            <div class="flex-box-50">
-                                <span>订单号: </span><span>{{newOrder.id | uppercase}}</span>
-                            </div>
-                            <div class="flex-box-50">
-                                <span>订单总价: </span>
-                                <span> {{orderTotal(newOrder)}} 元</span>
-                            </div>
-                            <div class="flex-box-50">
-                                <span>支付方式: </span> <span><input type="text" ng-model="newOrder.pay"></span>
-                            </div>
-                            <div class="flex-box-100">
-                                <span>详细信息</span>
-                                <div ng-repeat="new in newOrder.skulist">
-                                    <span>品牌: {{new.brand}}</span>
-                                    <span>Sku: <input type="text" ng-model="new.sku"></span>
-                                    <span>数量: <input type="text" ng-model="new.num"></span>
-                                    <span>单价: <input type="text" ng-model="new.price"></span>
-                                </div>
-                            </div>
-                        </form>
-                        <button ng-click="saveNew(newOrder)">确定</button>
-                        <button ng-click="hideNew()">取消</button>
-                    </modal>
-                    <modal ng-show="modal" message="'确认删除订单记录？'" show="modal">
-                        <p>删除之前请先确认已经下载该列表!!!</p>
-                        <button ng-click="exportData()" class="download">下载Excel列表</button>
-                        <button ng-click="deleteDB()">确定</button>
-                        <button ng-click="hide()">取消</button>
-                    </modal>
+                    <table class="checkout">
+                        <tbody>
+                            <tr>
+                                <th class="right-top">
+                                    <input type="radio" id="inlineRadio3" name="star1" ng-model="payment" value="支付宝">
+                                    <label for="inlineRadio3"><span></span>支付宝</label> &nbsp;/&nbsp;
+                                    <input type="radio" id="inlineRadio1" name="star1" ng-model="payment" value="微信">
+                                    <label for="inlineRadio1"><span></span>微信</label> &nbsp;/&nbsp;
+                                    <input type="radio" id="inlineRadio2" name="star1" ng-model="payment" value="现金">
+                                    <label for="inlineRadio2"><span></span>现金</label>
+                                    <span>总价: {{subTotal()}} 元</span>
+                                </th>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
+                <div>
+                    <button ng-click="saveOrder()" class="order-btn" ng-if="itemList.length>0">保存订单</button>
+                    <span ng-if="payment===''&&hasSku" class="payInfo">请选择支付方式</span>
+                </div>
+            </div>
+            <div class="container  container-list">
+                <h1>订单历史记录</h1>
+                <table id="tableList">
+                    <thead>
+                        <th>
+                            操作
+                        </th>
+                        <th>
+                            订单时间
+                        </th>
+                        <th>
+                            订单号
+                        </th>
+                        <th>
+                            订单总价
+                        </th>
+                        <th>
+                            支付方式
+                        </th>
+                        <th class="detailtop">详细信息</th>
+                    </thead>
+                    <tbody class="order-table">
+                        <tr ng-repeat="order in orderList | orderBy:'-created_at' ">
+                            <th><button ng-click="removeOrder(order)" class="delete">删除</button> <button
+                                    ng-click="editOrder(order)" class="delete">修改</button></th>
+                            <th>{{order.created_at}}</th>
+                            <td>{{order.orderId | uppercase}}</td>
+                            <td>{{order.cost}} 元</td>
+                            <td>{{order.pay}}</td>
+                            <td class="detail">
+                                <div ng-repeat="item in order.skulist">
+                                    <span> 品牌: {{item.brand}}</span>
+                                    <span class="maxWidth"> Sku: {{item.sku}}</span>
+                                    <span> 数量: {{item.num}}</span>
+                                    <span>单价: {{item.price}}</span>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button ng-click="exportData()" class="btn-list" ng-show="orderList.length">下载Excel列表</button>
+                <button ng-click="click()" class="clear-list" ng-show="orderList.length">清除记录</button>
+                <modal ng-show="modalEditor" message="'修改订单'" show="modalEditor">
+                    <form>
+                        <div class="flex-box-50">
+                            <span>订单时间: </span><span>&nbsp;&nbsp;{{newOrder.created_at}}</span>
+                        </div>
+                        <div class="flex-box-50">
+                            <span>订单编号: </span><span>&nbsp;&nbsp;{{newOrder.orderId | uppercase}}</span>
+                        </div>
+                        <div class="flex-box-50">
+                            <span>订单总价: </span>
+                            <span>&nbsp;&nbsp;{{orderTotal(newOrder)}} 元</span>
+                        </div>
+                        <div class="flex-box-50">
+                            <span>支付方式: </span><span>&nbsp;&nbsp;<input type="text" ng-model="newOrder.pay"></span>
+                        </div>
+                        <div class="flex-box-100">
+                            <span>详细信息</span>
+                            <div ng-repeat="new in newOrder.skulist">
+                                <span>品牌: {{new.brand}}</span>
+                                <span>Sku: <input type="text" ng-model="new.sku"></span>
+                                <span>数量: <input type="text" ng-model="new.num"></span>
+                                <span>单价: <input type="text" ng-model="new.price"></span>
+                            </div>
+                        </div>
+                    </form>
+                    <button ng-click="saveNew(newOrder)">确定</button>
+                    <button ng-click="hideNew()">取消</button>
+                </modal>
+                <modal ng-show="modal" message="'确认删除订单记录？'" show="modal">
+                    <p>删除之前请先确认已经下载该列表!!!</p>
+                    <button ng-click="exportData()" class="download">下载Excel列表</button>
+                    <button ng-click="deleteDB()">确定</button>
+                    <button ng-click="hide()">取消</button>
+                </modal>
             </div>
         </div>
     </div>
     <!-- js library    -->
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="js/angular.min.js"></script>
     <script src="js/angular-indexed-db.js"></script>
     <script src="https://unpkg.com/xlsx@0.14.1/dist/xlsx.full.min.js"></script>
-    <script src="js/clearance.js">
+    <script src="js/clearance.js?v=2019">
     </script>
 </body>
 
