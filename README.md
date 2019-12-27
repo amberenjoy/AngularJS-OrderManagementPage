@@ -1,4 +1,4 @@
-# Angularjs-SimpleOrderSystem for factory clearance
+# Angularjs-SimplifiedOrderSystem for factory clearance
 
 <ul>
     <li>Angular js version 1</li>
