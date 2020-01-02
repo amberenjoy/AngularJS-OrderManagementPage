@@ -51,7 +51,6 @@ app.controller('myCtrl', function($scope, $http, angularjsdb, $filter) {
           if (event.which === 13) {
             scope.$apply(function() {
               scope.$eval(attrs.keyEnter);
-              hasItem;
             });
             event.preventDefault();
           }
